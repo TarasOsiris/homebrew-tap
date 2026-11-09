@@ -1,6 +1,6 @@
 cask "screenshot-bro" do
-  version "4.27,169"
-  sha256 "5200ac8b8f5eedd5fa472c097af05347b1fd1d456d4214b90a5b80abf8e15806"
+  version "4.28,170"
+  sha256 "fc89e52310d4f15cfa812939c6b2dac3b93e05b23ac762bc1a42983a6c346bde"
 
   url "https://downloads.screenshotbro.app/ScreenshotBro-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Screenshot Bro"
